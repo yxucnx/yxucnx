@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=⚡%20OSX%20HUB%20⚡&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=yxucnx%20|%20Lua%20Developer%20|%20Script%20Creator&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=%20OSX%20HUB%20&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=yxucnx%20|%20Lua%20Developer%20|%20Script%20Creator&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
 
 <!-- TERMINAL TYPING -->
 <a href="https://github.com/yxucnx">
@@ -91,13 +91,16 @@ const yxu = {
   </a>
 </div>
 
-<!-- SNAKE ANIMATION -->
+<!-- METRICS -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yxucnx/yxucnx/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yxucnx/yxucnx/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yxucnx/yxucnx/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yxucnx&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&layout=compact" alt="Wakatime Stats" />
+</div>
+
+<br/>
+
+<!-- RANDOM DEV QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Random Dev Quote" />
 </div>
 
 <!-- TROPHY -->
@@ -105,25 +108,23 @@ const yxu = {
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yxucnx&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yxucnx&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
   </a>
 </div>
 
-<!-- SPOTIFY / QUOTE -->
+<!-- ASCII ART -->
 <br/>
 
 <div align="center">
 
-> ```
-> ██████╗ ███████╗██╗  ██╗    ██╗  ██╗██╗   ██╗██████╗ 
-> ██╔═══██╗██╔════╝╚██╗██╔╝    ██║  ██║██║   ██║██╔══██╗
-> ██║   ██║███████╗ ╚███╔╝     ███████║██║   ██║██████╔╝
-> ██║   ██║╚════██║ ██╔██╗     ██╔══██║██║   ██║██╔══██╗
-> ╚██████╔╝███████║██╔╝ ╚██╗   ██║  ██║╚██████╔╝██████╔╝
->  ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
-> ```
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+```
+ ██████╗ ███████╗██╗  ██╗    ██╗  ██╗██╗   ██╗██████╗ 
+██╔═══██╗██╔════╝╚██╗██╔╝    ██║  ██║██║   ██║██╔══██╗
+██║   ██║███████╗ ╚███╔╝     ███████║██║   ██║██████╔╝
+██║   ██║╚════██║ ██╔██╗     ██╔══██║██║   ██║██╔══██╗
+╚██████╔╝███████║██╔╝ ╚██╗   ██║  ██║╚██████╔╝██████╔╝
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
+```
 
 </div>
 
