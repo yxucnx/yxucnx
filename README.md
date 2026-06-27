@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=⚡%20OSX%20HUB%20⚡&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=yxucnx%20|%20Lua%20Developer%20|%20Script%20Creator&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=%20OSX%20HUB%20&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=yxucnx%20|%20Lua%20Developer%20|%20Script%20Creator&descSize=18&descAlignY=55&descColor=ffffff&animation=fadeIn" />
 
 <!-- TERMINAL TYPING -->
 <a href="https://github.com/yxucnx">
@@ -97,12 +97,12 @@ const yxu = {
 <div align="center">
 
 ```
-               ██████╗ ███████╗██╗  ██╗    ██╗  ██╗██╗   ██╗██████╗ 
-              ██╔═══██╗██╔════╝╚██╗██╔╝    ██║  ██║██║   ██║██╔══██╗
-              ██║   ██║███████╗ ╚███╔╝     ███████║██║   ██║██████╔╝
-              ██║   ██║╚════██║ ██╔██╗     ██╔══██║██║   ██║██╔══██╗
-              ╚██████╔╝███████║██╔╝ ╚██╗   ██║  ██║╚██████╔╝██████╔╝
-               ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
+                       ██████╗ ███████╗██╗  ██╗    ██╗  ██╗██╗   ██╗██████╗ 
+                      ██╔═══██╗██╔════╝╚██╗██╔╝    ██║  ██║██║   ██║██╔══██╗
+                      ██║   ██║███████╗ ╚███╔╝     ███████║██║   ██║██████╔╝
+                      ██║   ██║╚════██║ ██╔██╗     ██╔══██║██║   ██║██╔══██╗
+                      ╚██████╔╝███████║██╔╝ ╚██╗   ██║  ██║╚██████╔╝██████╔╝
+                       ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
 ```
 
 </div>
@@ -121,4 +121,4 @@ const yxu = {
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
